@@ -1,0 +1,40 @@
+
+    [Addis Abeba]
+
+                   [Medicine]
+                   '''''''''''''''
+                   _name__sex_      _ID__score_
+     Kirubel Adamu Adugna    M    123456    699
+       Abebe tolosa engda    M    564563    540
+
+                   [Engineering]
+                   '''''''''''''''
+                   _name__sex_      _ID__score_
+    Kebede Alemu Hunegnaw    M    568388    478
+========================================================================================
+    [Bahir Dar]
+
+                   [Medicine]
+                   '''''''''''''''
+                   _name__sex_      _ID__score_
+        Aster Awoke Sefiw    F    454545    352
+========================================================================================
+    [Gonder]
+
+                   [Medicine]
+                   '''''''''''''''
+                   _name__sex_      _ID__score_
+       Ezedin Xhaka Shifa    M    568843    640
+========================================================================================
+    [Adama]
+
+                   [Engineering]
+                   '''''''''''''''
+                   _name__sex_      _ID__score_
+      Nahom Balcha Amhara    M    564545    639
+
+                   [law]
+                   '''''''''''''''
+                   _name__sex_      _ID__score_
+       Aster Kebede Getie    F    566543    430
+========================================================================================

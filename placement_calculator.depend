@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\myhp\desktop\placement_calculator\main.cpp
+	<iostream>
+
+1527572749 source:c:\users\myhp\desktop\shelf\placement_calculator\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<limits>
+	<conio.h>
+	<iomanip>
+

@@ -1,0 +1,8 @@
+                   [NAME][SEX]    [ID][SCORE]        [UNIVERSITY]        [DEPARTMENT]
+     Kirubel Adamu Adugna    M  123456    699         Addis Abeba            Medicine
+       Ezedin Xhaka Shifa    M  568843    640              Gonder            Medicine
+      Nahom Balcha Amhara    M  564545    639               Adama         Engineering
+       Abebe tolosa engda    M  564563    540         Addis Abeba            Medicine
+    Kebede Alemu Hunegnaw    M  568388    478         Addis Abeba         Engineering
+       Aster Kebede Getie    F  566543    430               Adama                 law
+        Aster Awoke Sefiw    F  454545    352           Bahir Dar            Medicine

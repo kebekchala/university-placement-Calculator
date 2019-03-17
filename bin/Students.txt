@@ -1,0 +1,10 @@
+The following is the list of students with column order of name,sex,id,score,department choices and university choices, respectively
+Abebe tolosa engda_M_0_564563_540_0-1-2-3-4-5_0-1-2-4-3-5-6-7-8-9;
+Aster Kebede Getie_F_0_566543_430_4-1-0-2-3-5_5-4-2-3-1-0-6-7-8-9;
+Kebede Alemu Hunegnaw_M_0_568388_478_1-3-4-2-0-5_0-5-4-1-2-3-6-7-8-9;
+Ezedin Xhaka Shifa_M_0_568843_640_0-2-3-4-1-5_3-5-1-2-4-0-6-7-8-9;
+Nahom Balcha Amhara_M_0_564545_639_1-3-2-4-0-5_5-4-3-2-0-1-6-7-8-9;
+Aster Awoke Sefiw_F_0_454545_352_0-1-2-3-4-5_0-1-2-3-4-5-6-7-8-9;
+Kirubel Adamu Adugna_M_0_123456_699_0-1-2-3-4-5_0-1-2-3-4-5-6-7-8-9;
+Natnael tesfaye kidane_M_0_848848_444_3-4-5-2-1-0_1-2-0-3-2-3-3-3-3-3;
+omer abudulazizi adam_M_0_882233_473_2-0-1-5-4-3_0-1-5-7-2-4-9-8-6-3;

@@ -1,0 +1,11 @@
+These are legal universities
+0-Addis Abeba_0-2,1-34,2-22,4-10;
+1-Bahir Dar_0-23,1-10,2-5,3-20,4-30;
+2-Axum_0-13,1-44,2-12,4-30;
+3-Gonder_0-13,1-30,2-45,3-20;
+4-Adama_0-5,1-64,2-32,4-2;
+5-Jimma_0-3,2-32;
+6-JigJiga_0-21;
+7-Mekele_1-42,0-21;
+8-Mizan Tepi_0-21;
+9-Debre Tabor_0-32,2-32,1-23;

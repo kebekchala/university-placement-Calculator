@@ -1,0 +1,7 @@
+These are the departments with their respective codes
+0-Medicine
+1-Engineering
+2-computer science
+3-health
+4-law
+5-Software
